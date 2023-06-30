@@ -1,1 +1,1 @@
-console.lo("School")
+console.log("School")
